@@ -226,3 +226,4 @@ Would you like me to:
 * Create migration files + Eloquent models skeletons,
 * Draft blade templates for the affiliate dashboard (wireframes + markup),
 * Or generate deployment scripts for Ubuntu/Nginx + Supervisor?
+# Affiliates-Admin-Dashboard-Laravel-Based
