@@ -1,4 +1,4 @@
-# Av Laravel — README
+# Av Laravel - Affiliates Admin Dashboard & E-commerce Frontend – Laravel - README
 
 ## 🕸️ Overview
 
